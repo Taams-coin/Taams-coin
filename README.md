@@ -1,2 +1,2 @@
 # Taams-coin
-QT WALLET
+taams-QT WIN64.rar 
