@@ -1,0 +1,2 @@
+# Taams-coin
+QT WALLET
